@@ -4,8 +4,8 @@ import random
 from telethon import TelegramClient, events
 
 # Credenciales de la API de Telegram
-api_id = 28134569
-api_hash = 'c96cb975695fdc8dbefdef68c5d50779'
+api_id = 10306772
+api_hash = '2eb2d4541e00ba2796116dad693a9798'
 
 # Crear el cliente de Telegram
 client = TelegramClient('session_name', api_id, api_hash)
